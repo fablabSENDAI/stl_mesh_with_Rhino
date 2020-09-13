@@ -6,7 +6,7 @@ nav_order: 7
 
 # 課題
 
-### 第１課題『3Dプリンタベンチマーク作成』
+## 第１課題『3Dプリンタベンチマーク作成』
 
 3Dプリンタを使いこなすためには、マシンが得意\/苦手な形状を把握しておく必要がある。  
 そのためのベンチマークデータを作製する。\([**ベンチマークの例**](http://fabble.cc/uploads/attachment/content/5603506467697425e2ed0f00/bench_marks.3dm)\)
@@ -44,7 +44,7 @@ nav_order: 7
 
 例：[MUJI製品のためのアダプタデザイン](https://www.designboom.com/design/takt-project-3-pring-product-diy-3d-printed-04-04-2014/)
 
-#### 条件
+### 条件
 
 * 基本１人１デザイン
 * 塗装や異素材との組み合わせも可

@@ -6,7 +6,7 @@ nav_order: 5
 
 開いた箇所を特定したら。閉じる。
 
-#### FillMeshHoleコマンド
+## FillMeshHoleコマンド
 
 ”FillMeshHole”コマンドを入力し、見つけた穴をクリックすれば
 
@@ -14,7 +14,7 @@ nav_order: 5
 
 
 
-#### PatchSingleFaceコマンド
+## PatchSingleFaceコマンド
 
 "SinglePatchFace"コマンドを使えば、１つずつ自分でメッシュを貼っていくこともできる。
 

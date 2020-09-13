@@ -8,7 +8,7 @@ nav_order: 6
 
 STLデータに形状を書きだした後も形を編集することは可能。
 
-#### MeshBoolean
+## MeshBoolean
 
 メッシュ同士のブーリアン処理が行える
 
@@ -17,11 +17,11 @@ STLデータに形状を書きだした後も形を編集することは可能�
 * Intersection
 * Split
 
-#### ReduceMesh
+## ReduceMesh
 
 メッシュのポリゴン数を減らす\(処理重\)
 
-#### MeshToNURB
+## MeshToNURB
 
 メッシュをポリサーフェイスに変換すコマンド
 

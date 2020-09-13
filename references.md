@@ -7,7 +7,7 @@ nav_order: 8
 # 参考資料
 
 * [Shapeways \(海外の3Dプリントサービス\)](http://www.shapeways.com)
-* [3Dプリントされたコネクター](https://jp.pinterest.com/search/pins/?q=3d print connector&rs=typed&term_meta[]=3d|typed&term_meta[]=print|typed&term_meta[]=connector|typed)
+* [3Dプリントされたコネクター](https://tinyurl.com/y6mowumw)
 * [シリコン鋳造の型を3Dプリントする](https://medium.com/@tenguyasiki/3dプリント鋳型でシリコンフィギュアを作る実験-10d09da305fd#.vuc6emkhs)
 * [アナログ3Dプリンター](https://vimeo.com/98488940)
 * [ソーラー3Dプリンタ](https://vimeo.com/channels/staffpicks/25401444)

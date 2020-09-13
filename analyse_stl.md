@@ -13,7 +13,7 @@ nav_order: 4
 まずは、**[STLファイル](stl/guinomi_broken.stl)**をRhinoで開く。
 
 
-#### Whatコマンド
+## Whatコマンド
 
 STLファイルはMeshオブジェクトとして読み込まれる。
 
@@ -26,7 +26,7 @@ STLファイルはMeshオブジェクトとして読み込まれる。
 <img src="images/05_what.png" alt="hi" class="inline"/>
 
 
-#### DupBorderコマンド
+## DupBorderコマンド
 
 もしも、メッシュが閉じていなけばドコが開いているか見つけ出す必要がある。
 
@@ -35,7 +35,7 @@ STLファイルはMeshオブジェクトとして読み込まれる。
 <img src="images/06_dupborder.png" alt="hi" class="inline"/>
 
 
-#### ShowEdgeコマンド
+## ShowEdgeコマンド
 
 また、"ShowEdges"コマンドでも開いたメッシュのエッジを見つけることができる。
 
