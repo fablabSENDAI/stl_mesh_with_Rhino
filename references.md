@@ -15,4 +15,4 @@ nav_order: 8
 * [Repair STL file with Rhinoceros \(ダウンロードURL\)](http://www.rhino3d.com/download/rhino/3.0/stlrepair)
 * [Mesh編集に役立つコマンド表\(Rhino公式\)](http://4.rhino3d.com/4/help/Commands/CheckRepair-Meshes.htm)
 * [Mesh Mixer ダウンロードページ](http://meshmixer.com/download.html)
-* [KeiganMotorドキュメント](https://document.keigan-motor.com)
+* [FDM(FFF)3Dプリンタで印刷する機械部品をモデリングするときの、小さな工夫のいくつか by はるかぜポポポ](https://note.com/newspeak/n/n74b6bd36fac7)
