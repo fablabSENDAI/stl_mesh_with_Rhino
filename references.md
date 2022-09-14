@@ -16,6 +16,7 @@ nav_order: 8
 * [FDM(FFF)3Dプリンタで印刷する機械部品をモデリングするときの、小さな工夫のいくつか by はるかぜポポポ](https://note.com/newspeak/n/n74b6bd36fac7)
 * [Polymaker フィラメント企業](https://www.poly-maker.jp/)
 * [麦茶の逸般人工作室：3DP情報を扱うYouTubeチャンネル](https://www.youtube.com/channel/UCn23JisBcbb-Nw-3IhofaNA)
+* [3Dプリントしたものの接着について by セメダイン](https://www.cemedine.co.jp/cemedine_reports/3dFDM.html)
 
 
 ### Rhino & Grasshopper関連
