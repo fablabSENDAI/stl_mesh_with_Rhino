@@ -29,3 +29,4 @@ nav_order: 8
 ### その他
 * [sculpt GL](https://stephaneginier.com/sculptgl/)
 * [Mesh Mixer ダウンロードページ](http://meshmixer.com/download.html)
+* [全日本学生児童発明くふう展](https://www.youtube.com/channel/UCAONdtxz1QOBwbdN6HjjOAA/videos)
