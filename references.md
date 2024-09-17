@@ -17,7 +17,7 @@ nav_order: 8
 * [Polymaker フィラメント企業](https://www.poly-maker.jp/)
 * [麦茶の逸般人工作室：3DP情報を扱うYouTubeチャンネル](https://www.youtube.com/channel/UCn23JisBcbb-Nw-3IhofaNA)
 * [3Dプリントしたものの接着について by セメダイン](https://www.cemedine.co.jp/cemedine_reports/3dFDM.html)
-
+* [FDMを研磨してレンダリング並みに仕上げる](https://fablabsendai.github.io/acc/2021/1208.html)
 
 ### Rhino & Grasshopper関連
 * [Repair STL file with Rhinoceros \(ダウンロードURL\)](http://www.rhino3d.com/download/rhino/3.0/stlrepair)
